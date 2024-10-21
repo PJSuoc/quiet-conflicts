@@ -1,0 +1,230 @@
+Country,Net Migration,NM per 1000
+ Syria,734304,45.8
+ Ukraine,-6673581,-37.3
+ South Sudan,-30694,20
+ Venezuela,297713,13.6
+ British Virgin Islands,200,13.2
+ Equatorial Guinea,4000,13
+ Cayman Islands,400,12.3
+ Luxembourg,5222,11.4
+ Monaco,200,10.9
+ Anguilla,-,10.5
+ Turks and Caicos Islands,200,8.4
+ Aruba,164,8.1
+ Ireland,10000,6.8
+ Burundi,2000,6.8
+ Cyprus,5000,6.7
+ Australia,139991,6.4
+ Saudi Arabia,28998,6.1
+ Switzerland,39998,6
+ South Georgia and South Sandwich Islands,-,5.9
+ San Marino,100,5.9
+ Sint Maarten,0,5.8
+ Canada,248586,5.4
+ Malta,850,5
+ New Zealand,12999,4.8
+ Liechtenstein,150,4.8
+ Isle of Man,340,4.5
+ Djibouti,900,4.4
+ Spain,39998,4.2
+ Singapore,26998,4.2
+ Belgium,23999,4.2
+ Netherlands,29998,4.1
+ Norway,27998,3.8
+ Sweden,39998,3.8
+ Gabon,1000,3.6
+ New Caledonia,500,3.6
+ Austria,19999,3.5
+ Czech Republic,22011,3.3
+ Panama,7967,3.2
+ Italy,58496,3.2
+ Bahamas,1000,3.2
+ United Kingdom,165790,3.2
+ Macau,5000,3.1
+ United States,998540,3
+ Botswana,3000,2.8
+ Denmark,19999,2.7
+ Iceland,380,2.7
+ Hungary,616038,2.6
+ South Korea,29998,2.6
+ Suriname,-1000,2.5
+ Finland,13999,2.3
+ Brunei,0,2.2
+ Antigua and Barbuda,0,2
+ Costa Rica,3850,2
+ Israel,9999,1.9
+ Germany,154592,1.8
+ Belize,600,1.8
+ Hong Kong,19999,1.7
+ Sierra Leone,-4000,
+ Malaysia,48997,1.5
+ Slovenia,2000,1.5
+ Bermuda,0,1.4
+ Côte d'Ivoire,6000,1.2
+ Portugal,9999,1.2
+ Saint Kitts and Nevis,20,1.2
+ France,66601,1.1
+ Greece,5000,1
+ Taiwan,-,1
+ Belarus,30308,0.9
+ Russia,942445,0.8
+ Seychelles,-200,
+ Qatar,0,0.8
+ Japan,99994,0.7
+ Palau,-20,0.6
+ North Macedonia,-1000,0.4
+ Chile,-66850,0.3
+ Zambia,-5000,0.2
+ Benin,-200,0.2
+ India,-487303,0.1
+ Mauritius,0,0
+ Andorra,200,0
+ Gambia,-3000,0
+ Moldova,462866,0
+ Serbia,-9999,0
+ Montserrat,-,0
+ Madagascar,-1500,0
+ Namibia,-4061,0
+ Malawi,-6000,0
+ Guinea,-4000,0
+" Saint Helena, Ascension, and Tristan da Cunha",-,0
+ Philippines,-69996,0
+ Slovakia,425001,0
+ North Korea,-2000,0
+ Bhutan,300,0
+ Faroe Islands,0,0
+ Papua New Guinea,-800,0
+ Paraguay,-12499,-0.1
+ Ethiopia,-11999,-0.1
+ Congo,-1000,-0.1
+ Argentina,3886,-0.1
+ Afghanistan,-65846,-0.1
+ China,-311380,-0.1
+ Chad,-2000,-0.1
+ Kenya,-10000,-0.2
+ Brazil,6425,-0.2
+ Angola,-1000,-0.2
+ Vietnam,-82700,-0.2
+ Ghana,-9999,-0.2
+ Yemen,-29998,-0.2
+ Nigeria,-59996,-0.2
+ Thailand,18999,0.2
+ Bulgaria,-4800,-0.3
+ South Africa,58496,-0.3
+ Barbados,-80,-0.3
+ Iran,-39998,-0.3
+ Cameroon,-4800,-0.3
+ Croatia,-2000,-0.3
+ Egypt,-29998,-0.3
+ Kazakhstan,0,-0.4
+ Bosnia and Herzegovina,-500,-0.4
+ Tanzania,-39997,-0.4
+ Algeria,-9999,-0.4
+ Azerbaijan,0,-0.4
+ Oman,0,-0.5
+ Burkina Faso,-24998,-0.6
+ Cape Verde,-1256,-0.6
+ Niger,1000,-0.6
+ French Polynesia,-100,-0.6
+ DR Congo,-14999,-0.6
+Paracel Islands,-,-0.66
+ Indonesia,-49997,-0.7
+ Kosovo,-5000,-0.7
+ Mauritania,3000,-0.7
+ Senegal,-19999,-0.7
+ Mexico,-51399,-0.8
+ Mongolia,-850,-0.8
+ St. Lucia,0,-0.8
+ Liberia,-5000,-0.8
+ Uruguay,-1500,-0.9
+ Lebanon,-160237,-0.9
+ Uzbekistan,-19999,-0.9
+ Peru,-60652,-0.9
+ Bolivia,-3000,-1
+ Iraq,-6000,-1
+ Bahrain,0,-1
+ Trinidad and Tobago,-800,-1
+ Pakistan,-165988,-1
+ Ecuador,-20206,-1
+ Laos,-9999,-1.1
+ Curacao,515,-1.3
+ Vanuatu,0,-1.3
+ Saint Barthelemy,-,-1.3
+ Tunisia,-4000,-1.3
+ Burma,-34998,-1.4
+ Somalia,-30000,-1.4
+ Turkey,-301586,-1.5
+ Sri Lanka,-77495,-1.5
+ Solomon Islands,-1600,-1.5
+ Honduras,-5374,-1.5
+ Mozambique,-5000,-1.5
+ Sudan,-9999,-1.6
+ Haiti,-32248,-1.6
+ Guatemala,-9128,-1.6
+ Turkmenistan,-4000,-1.7
+ Morocco,-39998,-1.7
+ Togo,-2000,-1.8
+ Nicaragua,-8000,-1.8
+ Colombia,-167924,-1.9
+ Tajikistan,-19999,-2
+ Libya,-2000,-2.1
+ Comoros,-2000,-2.2
+ Grenada,-200,-2.3
+ Cuba,-6000,-2.5
+ Cambodia,-29998,-2.7
+ Estonia,-1000,-2.7
+ Dominican Republic,-29294,-2.7
+ Kiribati,-400,-2.8
+ Zimbabwe,-9999,-2.9
+ Bangladesh,-309977,-2.9
+ Mali,-39998,-3
+ Central African Republic,-17463,-3.2
+ Albania,-8000,-3.2
+ Rwanda,-8999,-3.2
+ Gibraltar,-24,-3.2
+ Uganda,-118846,-3.2
+ United Arab Emirates,0,-3.4
+ Guinea-Bissau,-1400,-3.5
+ East Timor,-5000,-3.8
+ Gaza Strip,-5000,-3.8
+ Wallis and Futuna,-,-3.8
+ Tokelau,-,-3.84
+ West Bank,-5000,-3.9
+ Romania,916813,-3.9
+ Kuwait,11999,-4.1
+   Nepal,-62012,-4.3
+ Georgia,-9999,-4.3
+ Lithuania,-15192,-4.3
+ Marshall Islands,0,-4.3
+ Lesotho,-4000,-4.5
+ Kyrgyzstan,-9999,-4.8
+ Montenegro,-480,-5
+ Greenland,-100,-5
+ Latvia,-8466,-5.1
+ Dominica,-40,-5.3
+ Armenia,-5000,-5.3
+ Svalbard,-,-5.57
+ Fiji,-3557,-5.7
+ Saint Vincent and the Grenadines,-200,-6.1
+ Poland,3366387,-6.1
+ Eswatini,-5733,-6.1
+ Saint Martin,0,-6.2
+ Tuvalu,-60,-6.4
+ Sao Tome and Principe,-600,-6.8
+ Guyana,-3900,-7
+ El Salvador,-23249,-7
+ Saint Pierre and Miquelon,-,-7.1
+ Samoa,-1500,-7.2
+ U.S. Virgin Islands,-450,-7.3
+ Jamaica,-10999,-7.4
+ Eritrea,-17152,-9.4
+ Nauru,-140,-10.2
+ Puerto Rico,16702,-10.8
+ Guam,-500,-10.9
+ Jordan,-141192,-11
+ Maldives,-8011,-12.8
+ Northern Mariana Islands,-50,-13.5
+ Tonga,-800,-18.1
+ Micronesia,-600,-20.9
+ Cook Islands,-,-26.2
+ American Samoa,-810,-27.4
