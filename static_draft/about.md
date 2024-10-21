@@ -18,7 +18,9 @@ Images Described in order of viewing, also tagged with numbers in saved folder.
 
 2. ACLED breaks down the events they record into categories and sub-categories, as seen here. Some non-violent categories are excluded. This chart is merely to let the reader know the differences for when it is used later as well as to provide some insight on frequency.
 
-3/4. Where is violence occurring? These maps display the raw counts of violence events, as well as a violent events per 100,000 people to highlight where conflict is the most intense. This helps highlight Africa and Myanmar in particular, and provides a way to highlight how some countries are experiencing a significant level of violence that spread out across many individuals in places where gangs, riots, and the like are the most common causes of violence.
+Everything past this point focuses on the smaller conflicts only.
+
+3. 4. Where is violence occurring? These maps display the raw counts of violence events, as well as a violent events per 100,000 people to highlight where conflict is the most intense. This helps highlight Africa and Myanmar in particular, and provides a way to highlight how some countries are experiencing a significant level of violence that spread out across many individuals in places where gangs, riots, and the like are the most common causes of violence.
 
 5. The heatmap using subcategories is to highlight how different violence can be from country-to-country. A viewer more up-to-date with these areas could read into the types of violence endemic to specific conflict types or security issues, but the chart can function on it's own to merely highlight that these countries are experiencing types of violence that are fundamentally different in many ways.
 
