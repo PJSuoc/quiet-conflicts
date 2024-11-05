@@ -91,7 +91,7 @@ def map_merger(df):
 
     #Migration ###s insert
     migration = pd.read_csv("../data/migration.csv", encoding = "ISO-8859-1")
-    migration["Country"] = migration["Country"].str[1:]
+    #migration["Country"] = migration["Country"].str[1:]
     add2 = add2.merge(migration, 'left',left_on='name',right_on='Country')
     add2['Net Migration'] = add2['Net Migration'].fillna(0)
     add2['NM per 1000'] = add2['NM per 1000'].fillna(0)
