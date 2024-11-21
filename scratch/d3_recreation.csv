@@ -1,0 +1,274 @@
+,country,sub_event_type,count
+0,Bangladesh,Abduction/forced disappearance,17
+1,Bangladesh,Armed clash,44
+2,Bangladesh,Arrests,19
+3,Bangladesh,Attack,246
+4,Bangladesh,Disrupted weapons use,3
+5,Bangladesh,Looting/property destruction,59
+6,Bangladesh,Mob violence,662
+7,Bangladesh,Remote explosive/landmine/IED,7
+8,Bangladesh,Sexual violence,5
+9,Bangladesh,Violent demonstration,384
+10,Brazil,Abduction/forced disappearance,60
+11,Brazil,Armed clash,4294
+12,Brazil,Arrests,20
+13,Brazil,Attack,4247
+14,Brazil,Disrupted weapons use,17
+15,Brazil,Grenade,4
+16,Brazil,Looting/property destruction,392
+17,Brazil,Mob violence,269
+18,Brazil,Remote explosive/landmine/IED,36
+19,Brazil,Sexual violence,16
+20,Brazil,Violent demonstration,262
+21,Burkina Faso,Abduction/forced disappearance,102
+22,Burkina Faso,Air/drone strike,272
+23,Burkina Faso,Armed clash,643
+24,Burkina Faso,Arrests,4
+25,Burkina Faso,Attack,508
+26,Burkina Faso,Disrupted weapons use,12
+27,Burkina Faso,Government regains territory,1
+28,Burkina Faso,Grenade,1
+29,Burkina Faso,Looting/property destruction,298
+30,Burkina Faso,Mob violence,5
+31,Burkina Faso,Non-state actor overtakes territory,4
+32,Burkina Faso,Remote explosive/landmine/IED,137
+33,Burkina Faso,Shelling/artillery/missile attack,35
+34,Burkina Faso,Violent demonstration,14
+35,Cameroon,Abduction/forced disappearance,539
+36,Cameroon,Air/drone strike,2
+37,Cameroon,Armed clash,1029
+38,Cameroon,Arrests,72
+39,Cameroon,Attack,942
+40,Cameroon,Disrupted weapons use,32
+41,Cameroon,Government regains territory,1
+42,Cameroon,Grenade,2
+43,Cameroon,Looting/property destruction,592
+44,Cameroon,Mob violence,116
+45,Cameroon,Non-state actor overtakes territory,1
+46,Cameroon,Remote explosive/landmine/IED,70
+47,Cameroon,Sexual violence,26
+48,Cameroon,Violent demonstration,3
+49,Colombia,Abduction/forced disappearance,284
+50,Colombia,Air/drone strike,4
+51,Colombia,Armed clash,658
+52,Colombia,Arrests,6
+53,Colombia,Attack,1311
+54,Colombia,Disrupted weapons use,79
+55,Colombia,Grenade,49
+56,Colombia,Looting/property destruction,178
+57,Colombia,Mob violence,327
+58,Colombia,Remote explosive/landmine/IED,123
+59,Colombia,Sexual violence,8
+60,Colombia,Shelling/artillery/missile attack,1
+61,Colombia,Suicide bomb,1
+62,Colombia,Violent demonstration,204
+63,Democratic Republic of Congo,Abduction/forced disappearance,109
+64,Democratic Republic of Congo,Air/drone strike,13
+65,Democratic Republic of Congo,Armed clash,895
+66,Democratic Republic of Congo,Arrests,48
+67,Democratic Republic of Congo,Attack,665
+68,Democratic Republic of Congo,Disrupted weapons use,22
+69,Democratic Republic of Congo,Government regains territory,18
+70,Democratic Republic of Congo,Grenade,4
+71,Democratic Republic of Congo,Looting/property destruction,114
+72,Democratic Republic of Congo,Mob violence,188
+73,Democratic Republic of Congo,Non-state actor overtakes territory,98
+74,Democratic Republic of Congo,Remote explosive/landmine/IED,13
+75,Democratic Republic of Congo,Sexual violence,36
+76,Democratic Republic of Congo,Shelling/artillery/missile attack,37
+77,Democratic Republic of Congo,Violent demonstration,99
+78,Ethiopia,Abduction/forced disappearance,59
+79,Ethiopia,Air/drone strike,25
+80,Ethiopia,Armed clash,783
+81,Ethiopia,Arrests,71
+82,Ethiopia,Attack,418
+83,Ethiopia,Disrupted weapons use,11
+84,Ethiopia,Government regains territory,12
+85,Ethiopia,Grenade,16
+86,Ethiopia,Looting/property destruction,32
+87,Ethiopia,Mob violence,16
+88,Ethiopia,Non-state actor overtakes territory,15
+89,Ethiopia,Remote explosive/landmine/IED,5
+90,Ethiopia,Sexual violence,11
+91,Ethiopia,Shelling/artillery/missile attack,16
+92,Ethiopia,Violent demonstration,42
+93,India,Abduction/forced disappearance,58
+94,India,Air/drone strike,6
+95,India,Armed clash,502
+96,India,Arrests,112
+97,India,Attack,800
+98,India,Disrupted weapons use,413
+99,India,Grenade,17
+100,India,Looting/property destruction,366
+101,India,Mob violence,1786
+102,India,Remote explosive/landmine/IED,114
+103,India,Sexual violence,53
+104,India,Shelling/artillery/missile attack,3
+105,India,Violent demonstration,593
+106,Iraq,Abduction/forced disappearance,27
+107,Iraq,Air/drone strike,1999
+108,Iraq,Armed clash,1259
+109,Iraq,Arrests,134
+110,Iraq,Attack,377
+111,Iraq,Disrupted weapons use,278
+112,Iraq,Grenade,85
+113,Iraq,Looting/property destruction,113
+114,Iraq,Mob violence,9
+115,Iraq,Remote explosive/landmine/IED,151
+116,Iraq,Shelling/artillery/missile attack,1003
+117,Iraq,Violent demonstration,52
+118,Kenya,Abduction/forced disappearance,31
+119,Kenya,Air/drone strike,4
+120,Kenya,Armed clash,202
+121,Kenya,Arrests,24
+122,Kenya,Attack,309
+123,Kenya,Disrupted weapons use,16
+124,Kenya,Grenade,2
+125,Kenya,Looting/property destruction,80
+126,Kenya,Mob violence,494
+127,Kenya,Remote explosive/landmine/IED,37
+128,Kenya,Sexual violence,8
+129,Kenya,Shelling/artillery/missile attack,1
+130,Kenya,Violent demonstration,267
+131,Mali,Abduction/forced disappearance,170
+132,Mali,Air/drone strike,134
+133,Mali,Armed clash,462
+134,Mali,Arrests,51
+135,Mali,Attack,569
+136,Mali,Disrupted weapons use,53
+137,Mali,Government regains territory,4
+138,Mali,Grenade,1
+139,Mali,Looting/property destruction,262
+140,Mali,Mob violence,34
+141,Mali,Non-state actor overtakes territory,2
+142,Mali,Remote explosive/landmine/IED,157
+143,Mali,Sexual violence,5
+144,Mali,Shelling/artillery/missile attack,41
+145,Mali,Violent demonstration,11
+146,Mexico,Abduction/forced disappearance,188
+147,Mexico,Air/drone strike,29
+148,Mexico,Armed clash,1332
+149,Mexico,Arrests,231
+150,Mexico,Attack,4729
+151,Mexico,Disrupted weapons use,21
+152,Mexico,Grenade,8
+153,Mexico,Looting/property destruction,427
+154,Mexico,Mob violence,355
+155,Mexico,Remote explosive/landmine/IED,6
+156,Mexico,Sexual violence,20
+157,Mexico,Violent demonstration,236
+158,Myanmar,Abduction/forced disappearance,318
+159,Myanmar,Air/drone strike,1145
+160,Myanmar,Armed clash,3941
+161,Myanmar,Arrests,999
+162,Myanmar,Attack,1335
+163,Myanmar,Disrupted weapons use,106
+164,Myanmar,Government regains territory,1
+165,Myanmar,Grenade,85
+166,Myanmar,Looting/property destruction,1229
+167,Myanmar,Mob violence,1
+168,Myanmar,Non-state actor overtakes territory,59
+169,Myanmar,Remote explosive/landmine/IED,1027
+170,Myanmar,Sexual violence,18
+171,Myanmar,Shelling/artillery/missile attack,1437
+172,Myanmar,Suicide bomb,1
+173,Myanmar,Violent demonstration,2
+174,Nigeria,Abduction/forced disappearance,590
+175,Nigeria,Air/drone strike,116
+176,Nigeria,Armed clash,1190
+177,Nigeria,Arrests,23
+178,Nigeria,Attack,1278
+179,Nigeria,Disrupted weapons use,28
+180,Nigeria,Grenade,10
+181,Nigeria,Looting/property destruction,210
+182,Nigeria,Mob violence,241
+183,Nigeria,Remote explosive/landmine/IED,76
+184,Nigeria,Sexual violence,16
+185,Nigeria,Shelling/artillery/missile attack,14
+186,Nigeria,Suicide bomb,2
+187,Nigeria,Violent demonstration,73
+188,Pakistan,Abduction/forced disappearance,57
+189,Pakistan,Air/drone strike,3
+190,Pakistan,Armed clash,669
+191,Pakistan,Arrests,57
+192,Pakistan,Attack,340
+193,Pakistan,Disrupted weapons use,54
+194,Pakistan,Grenade,94
+195,Pakistan,Looting/property destruction,40
+196,Pakistan,Mob violence,205
+197,Pakistan,Remote explosive/landmine/IED,165
+198,Pakistan,Sexual violence,4
+199,Pakistan,Shelling/artillery/missile attack,31
+200,Pakistan,Suicide bomb,22
+201,Pakistan,Violent demonstration,196
+202,Somalia,Abduction/forced disappearance,48
+203,Somalia,Air/drone strike,111
+204,Somalia,Armed clash,1675
+205,Somalia,Arrests,5
+206,Somalia,Attack,301
+207,Somalia,Disrupted weapons use,44
+208,Somalia,Government regains territory,27
+209,Somalia,Grenade,89
+210,Somalia,Looting/property destruction,27
+211,Somalia,Non-state actor overtakes territory,13
+212,Somalia,Remote explosive/landmine/IED,355
+213,Somalia,Sexual violence,2
+214,Somalia,Shelling/artillery/missile attack,96
+215,Somalia,Suicide bomb,19
+216,Somalia,Violent demonstration,16
+217,Sudan,Abduction/forced disappearance,175
+218,Sudan,Air/drone strike,475
+219,Sudan,Armed clash,2323
+220,Sudan,Arrests,42
+221,Sudan,Attack,669
+222,Sudan,Disrupted weapons use,38
+223,Sudan,Government regains territory,40
+224,Sudan,Grenade,1
+225,Sudan,Looting/property destruction,380
+226,Sudan,Mob violence,13
+227,Sudan,Non-state actor overtakes territory,68
+228,Sudan,Remote explosive/landmine/IED,15
+229,Sudan,Sexual violence,141
+230,Sudan,Shelling/artillery/missile attack,538
+231,Sudan,Violent demonstration,30
+232,Syria,Abduction/forced disappearance,983
+233,Syria,Air/drone strike,708
+234,Syria,Armed clash,2590
+235,Syria,Arrests,225
+236,Syria,Attack,1007
+237,Syria,Disrupted weapons use,65
+238,Syria,Grenade,60
+239,Syria,Looting/property destruction,125
+240,Syria,Mob violence,20
+241,Syria,Non-state actor overtakes territory,37
+242,Syria,Remote explosive/landmine/IED,712
+243,Syria,Sexual violence,5
+244,Syria,Shelling/artillery/missile attack,4099
+245,Syria,Suicide bomb,2
+246,Syria,Violent demonstration,139
+247,Turkey,Air/drone strike,6
+248,Turkey,Armed clash,93
+249,Turkey,Arrests,680
+250,Turkey,Attack,76
+251,Turkey,Disrupted weapons use,26
+252,Turkey,Grenade,24
+253,Turkey,Looting/property destruction,143
+254,Turkey,Mob violence,135
+255,Turkey,Remote explosive/landmine/IED,18
+256,Turkey,Sexual violence,2
+257,Turkey,Shelling/artillery/missile attack,5
+258,Turkey,Violent demonstration,29
+259,Yemen,Abduction/forced disappearance,152
+260,Yemen,Air/drone strike,454
+261,Yemen,Armed clash,966
+262,Yemen,Arrests,72
+263,Yemen,Attack,518
+264,Yemen,Disrupted weapons use,128
+265,Yemen,Government regains territory,14
+266,Yemen,Grenade,24
+267,Yemen,Looting/property destruction,150
+268,Yemen,Mob violence,14
+269,Yemen,Non-state actor overtakes territory,7
+270,Yemen,Remote explosive/landmine/IED,312
+271,Yemen,Shelling/artillery/missile attack,614
+272,Yemen,Violent demonstration,51
